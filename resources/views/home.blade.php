@@ -20,8 +20,8 @@
                             </h1>
                         </div>
                     </div>
-                    <div class="col-lg-12 text-center mt-5 ">
-                        <button href="#" class="button text-center">{ Let's Begin -> }</button>
+                    <div class="col-lg-12 text-center mt-3 ">
+                        <a href="/about"><button class="button text-center">Let's Begin</button></a>
                     </div>
                 </div>
             </div>
