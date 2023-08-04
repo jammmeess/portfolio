@@ -7,7 +7,7 @@
 
 <body>
     @include("layouts/navbar")
-    <div class="container">
+    <div class="container" style="height: 80vh">
         <div class="row my-5 text-dark">
             <h1>My Education</h1>
             <div class="col-lg-12 mt-5 text-dark">
