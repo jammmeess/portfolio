@@ -16,7 +16,7 @@
                     <div class="col-lg-12 col-12 text-center ">
                         <div class="glitch-wrapper">
                             <h1 class="fw-bolder display-1">
-                                Welcome to my profile!
+                                Welcome to my profile
                             </h1>
                         </div>
                     </div>
