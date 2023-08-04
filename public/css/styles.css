@@ -56,10 +56,10 @@ z-index: 9999;
     opacity: 1;
 }
 
-/* .navbar.scrolled {
- background:  #050505;
+.navbar.scrolled {
+ background-color: rgb(22, 22, 22);
   z-index: 9999;
-} */
+}
 
 /* Hero */
 
@@ -137,7 +137,7 @@ z-index: 9999;
 
 /* footer */
 .footer {
-  position: absolute;
+  position: static;
   bottom: 0;
   left: 0;
   right: 0;
@@ -159,4 +159,13 @@ z-index: 9999;
     border-radius: 17px;
     box-shadow:  5px 5px 10px #969696,
              -5px -5px 10px #ffffff;
+}
+
+/* Links */
+a {
+    color: inherit; 
+}
+
+a:hover {
+    color: #5f0000; 
 }
