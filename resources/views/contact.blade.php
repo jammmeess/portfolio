@@ -2,23 +2,29 @@
 
 <head>
     @include("layouts/head")
-    <title>About</title>
+    <title>Contact</title>
 </head>
 
 <body>
     @include("layouts/navbar")
-    <div class="container">
-        <div class="row mt-5">
-            <div class="col-lg-6 mt-5">
-                <img src="/img/about/profile.jpg" alt="A photo of me" class="img-fluid" id="profile">
+    <div class="container" style="height: 80vh">
+        <div class="row my-5 text-dark">
+            <h1>Contact Me</h1>
+            <div class="col-lg-12 mt-5 text-dark">
+                <h4><b>LinkedIn</b> </h4>
+                <p>LinkedIn Account: <a href="https://www.linkedin.com/in/kristoffer-james-bomediano-020214271/">Kristoffer James Bomediano</a></p>
             </div>
-            <div class="col-lg-6 mt-5 text-dark">
-                <h1>About me</h1>
-                <p>My name is <b>Kristoffer James B. Bomediano.</b> </p>
-                <p> I am a competent web developer proficient in a variety of technologies including <b>HTML, CSS, Bootstrap 5, JavaScript, Laravel, and MySQL. </b> </p>
-                <p>I am able to self-manage on independent projects and work effectively in a team.</p>
-                <p>My dedication to continuous learning allows me to stay current with industry trends and implement innovative solutions in my work. </p>
-                <a href="#"><button class="button mt-5">Contact Me</button></a>
+            <div class=" col-lg-12 mt-3 text-dark">
+                <h4><b>GitHub</b> </h4>
+                <p>GitHub Account: <a href="https://github.com/jammmeess">Kristoffer Bomediano | jammmeess</a></p>
+            </div>
+            <div class=" col-lg-12 mt-3 text-dark">
+                <h4><b>Email</b> </h4>
+                <p>Outlook Email Address: james_bomediano@hotmail.com</p>
+            </div>
+            <div class=" col-lg-12 mt-3 text-dark">
+                <h4><b>Contact Number</b> </h4>
+                <p>Contact Number: +63-9659109471</p>
             </div>
         </div>
     </div>
