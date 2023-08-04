@@ -11,13 +11,16 @@
           <a class="nav-link text-light  ms-2" href="/about">About Me</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light  ms-2" href="#">Education</a>
+          <a class="nav-link text-light  ms-2" href="/education">Education</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light ms-2" href="#">Projects</a>
+          <a class="nav-link text-light  ms-2" href="/experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light ms-2" href="/projects">Projects</a>
         </li>
         <li class=" nav-item">
-          <a class="nav-link text-light " href="#">Contact Me</a>
+          <a class="nav-link text-light " href="/contact">Contact Me</a>
         </li>
     </div>
   </div>
