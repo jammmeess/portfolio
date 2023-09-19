@@ -22,6 +22,7 @@
                     </div>
                     <div class="col-lg-12 text-center mt-3 ">
                         <a href="/about"><button class="button text-center">Let's Begin</button></a>
+                        <a href="/files/Bomediano_resume.pdf" download><button class="button text-center ms-2">Download My Resume</button></a>
                     </div>
                 </div>
             </div>
