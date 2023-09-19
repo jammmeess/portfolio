@@ -22,6 +22,9 @@
         <li class=" nav-item">
           <a class="nav-link text-light " href="/contact">Contact Me</a>
         </li>
+        <li class=" nav-item">
+          <a href="/files/Bomediano_resume.pdf" download><button class="btn btn-outline-light btn-sm mt-1">Download My Resume</button></a>
+        </li>
     </div>
   </div>
 </nav>
